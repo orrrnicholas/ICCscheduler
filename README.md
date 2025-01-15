@@ -16,7 +16,7 @@ The ICC Scheduler is a Python application designed to manage employee scheduling
    ```
 2. Navigate to the project directory:
    ```
-   cd ICCscheduler
+   cd ICCscheduler-main
    ```
 3. Install the required dependencies:
    ```
