@@ -1,5 +1,9 @@
+tk
 ctk
 Pillow
+openpyxl
 numpy
 pandas
 matplotlib
+pulp
+customtkinter
