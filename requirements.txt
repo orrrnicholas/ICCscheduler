@@ -1,0 +1,5 @@
+ctk
+Pillow
+numpy
+pandas
+matplotlib
